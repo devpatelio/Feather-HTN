@@ -1,4 +1,4 @@
-<img src=https://media.discordapp.net/attachments/797905975914528799/800385360998957106/Y0ojvmw.png>
+<img src=https://media.discordapp.net/attachments/797905975914528799/800385360998957106/Y0ojvmw.png style="width: 100%">
 
 # Feather-HTN :sun_with_face: :dove: :milky_way:
 Our 2020-2021 Hack The North Project that uses REST, Django, and Sentiment Analysis to democratize mental health support while making it accessible through social avenues. 
