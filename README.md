@@ -1,4 +1,4 @@
-# Feather-HTN :dove: :milky_way:
+# Feather-HTN :sun_with_face: :dove: :milky_way:
 Our 2020-2021 Hack The North Project that uses REST, Django, and Sentiment Analysis to democratize mental health support while making it accessible through social avenues. 
 
 ## Project title
