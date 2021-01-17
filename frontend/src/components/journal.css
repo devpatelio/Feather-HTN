@@ -1,0 +1,30 @@
+.journal .questionnumber {
+    padding-left: 3.5vw;
+    /* padding-top: 1vh; */
+    
+}
+.journal .mood {
+    padding-left: 3.5vw;
+    /* padding-top: 1vh; */
+}
+.journal .questions{
+    margin-top: -2vh;
+    padding-left: 3.5vw;
+}
+.journal .journaltext{
+    margin-left: 3.5vw;
+    width: 80%;
+    height: 7vh;
+    position: relative;
+    padding: 0px 1.19vw;
+    border: none;
+    border-radius: 0.29vw;
+    font-family: 'PlayfairDisplay';
+    opacity: 0.9;
+    background-color: white;
+    text-emphasis-color: 'white';
+    outline: none;
+    box-shadow: 0px 0.29vw 1.7vw 0px transparent;
+    transition: 0.3s background-color ease-in-out, 0.3s box-shadow ease-in-out, 0.1s padding ease-in-out;
+    -webkit-appearance: none;
+}

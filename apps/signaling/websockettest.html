@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <video id="localVideo" autoplay muted style="width:40%;"></video>
+        <video id="remoteVideo" autoplay style="width:40%;"></video>
+        
+        <input type="button" id="start" onclick="start(true)" value="Start Video"></input>
+
+        <script src="https://webrtc.github.io/adapter/adapter-latest.js"></script>
+        <script src="./websockettest.js"></script>
+        <script>
+            pageReady()
+        </script>
+    </body>
+</html>

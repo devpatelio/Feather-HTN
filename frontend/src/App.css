@@ -1,0 +1,29 @@
+@font-face{
+    font-family: 'PlayfairDisplay';
+    src: local('PlayfairDisplay'), url('./font/PlayfairDisplay-Regular.ttf') format('ttf');
+}
+
+@font-face{
+    font-family: 'PlayfairDisplayBold';
+    src: local('PlayfairDisplayBold'), url('./font/PlayfairDisplay-Bold.ttf') format('ttf');
+}
+
+.App {
+    background-color: #262626;
+    height:100vh;
+    width:100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+a.nostyle:link {
+    text-decoration: inherit;
+    color: inherit;
+}
+
+a.nostyle:visited {
+    text-decoration: inherit;
+    color: inherit;
+}

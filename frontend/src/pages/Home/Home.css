@@ -1,0 +1,13 @@
+.dashboard {
+    background-color: #262626;
+    color: #ffffff;
+}
+.hello {
+    margin-top: -1vw;
+}
+.dashboardlogo img {
+    height: 10vh;
+    width: auto;
+    margin-left: 4vw;
+    margin-top: 0.5vh;
+}
