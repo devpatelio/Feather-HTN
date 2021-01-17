@@ -24,7 +24,7 @@ Sometimes, all you need is for someone to be there for you, yet in a world where
 ## Partners
 [Dev Patel](https://github.com/devpatelio): ML and GCloud, Sentiment Analysis, Flask, Pipeline and Integration <br>
 [Shalin Patel](https://github.com/PatelShalin): Frontend, React, APIs, Design and Database <br>
-[Mike Romashov](https://devpost.com/MikeRomaa): Django, REST, Backend, Deployment, APIs <br>
+[Mike Romashov](https://github.com/MikeRomaa): Django, REST, Backend, Deployment, APIs <br>
 [Rajan Agarwal](https://github.com/rajanagarwal1): Video and Media, Partial Frontend, PM <br>
 
 
